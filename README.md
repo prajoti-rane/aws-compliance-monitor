@@ -2,7 +2,7 @@
 
 Automated security assessment tool that scans AWS infrastructure against CIS AWS Foundations Benchmark using Prowler.
 
-![Compliance Dashboard](screenshots/01-dashboard.png)
+![Compliance Dashboard](screenshots)
 
 ## 🎯 Overview
 
